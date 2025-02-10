@@ -15,7 +15,8 @@ I am a tech enthusiast & an open-source advocate. Always open to collaborating o
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MWGMorningwood&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=MWGMorningwood&theme=tokyonight&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MWGMorningwood&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=400)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=MWGMorningwood&theme=tokyonight&hide_border=true&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MWGMorningwood&theme=tokyonight&show_icons=true&hide_border=true&count_private=true?layout=donut)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MWGMorningwood.MWGMorningwood)
